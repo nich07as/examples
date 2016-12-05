@@ -115,7 +115,7 @@
         },
         "severity": {
           "omit_norms": true,
-          "type": "string"
+          "type": "keyword"
         },
         "deviceProcessId": {
           "type": "integer"
